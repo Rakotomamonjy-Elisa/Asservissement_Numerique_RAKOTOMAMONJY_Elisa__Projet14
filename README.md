@@ -60,6 +60,9 @@ Après exécution :
 - Un graphique s’affiche (données et modèle)
 - Les paramètres (a, b) sont affichés
 - Une image peut être enregistrée (resultat.png)
+- ## 📷 Résultat
+
+![Résultat](resultat.png)
 
 ###  Problèmes fréquents
 
