@@ -1,11 +1,11 @@
 # Asservissement_Numerique_RAKOTOMAMONJY_Elisa__Projet14
 Identification de système par moindres carrés - Python (SciPy)
-# 🧠 Description
+# Description
 Ce projet présente l’identification d’un système linéaire à partir de données bruitées en utilisant la méthode des **moindres carrés**.
 
 L’objectif est d’estimer les paramètres d’un modèle mathématique afin d’approcher le comportement réel d’un système.
 
-## ⚙️ Méthode utilisée
+## Méthode utilisée
 
 On considère un modèle linéaire du type :
 
@@ -28,7 +28,7 @@ Cette méthode permet d’obtenir la meilleure approximation
 - `README.md` → documentation du projet
 
   
-## ▶️ Exécution (Guide simple)
+## Exécution
 
 ### 1. Installer Python
 Vérifier que Python est installé en ouvrant l’invite de commande (cmd) et en tapant :
@@ -61,7 +61,7 @@ Après exécution :
 - Les paramètres (a, b) sont affichés
 - Une image peut être enregistrée (resultat.png)
 
-### ⚠️ Problèmes fréquents
+###  Problèmes fréquents
 
 - Si `python` ne marche pas → essayer : python3
 - Si `pip` ne marche pas → essayer : pip3
