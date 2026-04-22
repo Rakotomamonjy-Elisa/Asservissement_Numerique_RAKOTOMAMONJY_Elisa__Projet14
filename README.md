@@ -63,9 +63,3 @@ Après exécution :
 - ##  Résultat
 
 ![Résultat](resultat.png)
-
-###  Problèmes fréquents
-
-- Si `python` ne marche pas → essayer : python3
-- Si `pip` ne marche pas → essayer : pip3
-- Vérifier que vous êtes dans le bon dossier
